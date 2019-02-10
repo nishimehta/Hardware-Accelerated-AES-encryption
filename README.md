@@ -1,0 +1,2 @@
+# Hardware-Accelerated-AES-encryption
+AES-NI i.e. Advanced Encryption Standard - New Instructions is a set of hardware accelerated instructions provided by Intel to accelerate the encryption algorithm through the Intel processors. AES is a standard encryption algorithm which is believed to be safe and secure. Improved performance of AES algorithm has significant benefits in servers and computers. (a) By using the intrinsic functions of the intel library, the code is written in C to implement AES ECB mode encryption.
